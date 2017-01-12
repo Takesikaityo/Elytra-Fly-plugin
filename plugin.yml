@@ -1,0 +1,8 @@
+name: Elytra-Fly
+main: takesi\Main
+author: takesi
+version: 1.0
+api: [1.13.0]
+load: STARTUP
+description: Elytraゲートを通って大空を駆け抜けろ！
+website: https://plus.google.com/105250560911974727147
